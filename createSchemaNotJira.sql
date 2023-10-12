@@ -1,0 +1,1 @@
+CREATE SCHEMA `not_jira` ;
